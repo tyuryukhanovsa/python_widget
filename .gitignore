@@ -29,6 +29,7 @@ pip-delete-this-directory.txt
 .pytest_cache/
 .coverage
 .cache
+.pytest_cache
 nosetests.xml
 coverage.xml
 
@@ -39,6 +40,7 @@ coverage.xml
 .mr.developer.cfg
 .project
 .pydevproject
+poetry.lock
 
 # Rope
 .ropeproject
